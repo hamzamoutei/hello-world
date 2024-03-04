@@ -1,1 +1,1 @@
-hg
+Hello world git toturial
